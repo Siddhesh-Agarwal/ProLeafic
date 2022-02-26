@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display:flex ;
+    justify-content: center;
+}
+.img{
+    padding: 75px 60px;
+}
+.img img{
+    width: 500px;
+    height: 600px;
+    transition: all 1sec ease-in;
+}
+.img img:hover{
+    width: 505px;
+    height: 606px;
+    opacity: 0.9;
+    
+}
+.content{
+    width: 600px;
+    height: auto;
+    padding: 75px 60px;
+    background-image:linear-gradient(to bottom,rgb(247, 240, 240),rgba(213, 216, 19, 0.4));
+    text-align: justify;
+}
+.content h1{
+    font-size: 45px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgba(0, 200, 0,0.7);
+}
+.content p{
+    padding-top: 20px;
+    font-size:25px;
+}
