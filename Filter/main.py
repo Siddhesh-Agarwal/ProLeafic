@@ -10,7 +10,7 @@ if q1 == "Cash crops":
     q2 = st.selectbox(
         label="What is the crop?",
         options=[
-            "Broccali",
+            "Broccoli",
             "Cucumber",
             "Potatoes",
             "Raspberry",
