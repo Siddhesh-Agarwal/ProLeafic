@@ -2,7 +2,7 @@
 Submission for Hack@SKCET by team USBee
 ___
 
-## Setup
+## ⚙ Setup
 
 Setup Virtual Environment
 
