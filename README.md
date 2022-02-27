@@ -15,3 +15,5 @@ Activate the virtual environment by Executing:
 and then, install all dependancies by running:
 
     pip install -r requirements.txt
+
+**NOTE**: Run the Scanner/app.py and Filter/app.py files on ports 8501 and 8502 respectively. While the HTML pages should run on port 5501.
